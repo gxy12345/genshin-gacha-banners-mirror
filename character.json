@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.6.1",
+		"items": [
+			{
+				"itemId": 10000095,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_ueb15f/6e91fd2e2bc1022882e9b1069094a161.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "阿蕾奇诺",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000084,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/1d5cf3d1159c18749e50422c708db4da.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "林尼",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000083,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/ee133a6b059c181d78394bdfe0ac10dc.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "琳妮特",
+				"nameEn": "",
+				"element": "Anemo"
+			},
+			{
+				"itemId": 10000085,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/36ec093c46811afca9a81083d8e2f3fa.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "菲米尼",
+				"nameEn": "",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000023,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/4ba437132ef28cf1280197f5c03f3432.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "",
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-04-24 06:00:00",
+		"end": "2024-05-14 17:59:59"
+	},
+	{
 		"version": "4.5.2",
 		"items": [
 			{
