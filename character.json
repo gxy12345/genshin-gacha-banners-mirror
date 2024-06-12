@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.7.1",
+		"items": [
+			{
+				"itemId": 10000082,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u63dbg/7bcb1753f5671dce80485e72ad47388e.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "克洛琳德",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000078,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/d736300a8963fde0fb8a619aeb2a8105.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "艾尔海森",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000086,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u63dbg/40584ad8feac68eb0b18020482f4e597.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "赛索斯",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000050,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/683ff649748b7ad944c129c242215a43.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "托马",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000032,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/1505f3a9e1a6127448c15b93e5941fa9.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "班尼特",
+				"nameEn": "",
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-06-05 06:00:00",
+		"end": "2024-06-24 17:59:59"
+	},
+	{
 		"version": "4.6.2",
 		"items": [
 			{
