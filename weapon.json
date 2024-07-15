@@ -1,5 +1,82 @@
 [
 	{
+		"version": "4.7.2",
+		"items": [
+			{
+				"itemId": 11513,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/3c3b9ec9c69fe78571f315f1006a7b87.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "白雨心弦",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11513,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/621b5186c32e03ed4ffae3b754984ff0.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "静水流涌之辉",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11405,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/edc8f2859192160317ebd379ab23b2c3.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里龙吟",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12410,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/4b71db00630cebb30c20b817fff7df31.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "千岩古剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13407,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/e0b24fa39aa0faa17dd92fcc3f0176b0.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风长枪",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14401,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/a2e63060cc252b6306aff79a526fbbcb.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风秘典",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15403,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/b27508794a07c97b776cbcabcc15d149.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "祭礼弓",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-06-25 18:00:00",
+		"end": "2024-07-16 14:59:59"
+	},
+	{
 		"version": "4.7.1",
 		"items": [
 			{

@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.7.2",
+		"items": [
+			{
+				"itemId": 10000086,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/bac9217efdf9335f1c2cc2fe7bd6f5c2.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "希格雯",
+				"nameEn": "",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000089,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/95abb9a72700ec4d16594522fa5ec681.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "芙宁娜",
+				"nameEn": "",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000092,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/c2167efef9abb7786cf3833f8be01860.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "嘉明",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000045,
+				"weaponType": "Polearm",
+				"imageUrl": "https://uploadstatic.mihoyo.com/hk4e/e20200928calculate/common/rosaria_623de3bc25a21b6e516ea0489ddd11f8.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "罗莎莉亚",
+				"nameEn": "",
+				"element": "Cryo"
+			},
+			{
+				"itemId": 10000034,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/0f656099e2b60f9dd3ba7360c9414bba.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "诺艾尔",
+				"nameEn": "",
+				"element": "Geo"
+			}
+		],
+		"start": "2024-06-25 18:00:00",
+		"end": "2024-07-16 14:59:59"
+	},
+	{
 		"version": "4.7.1",
 		"items": [
 			{
