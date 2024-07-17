@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.8.1",
+		"items": [
+			{
+				"itemId": 10000091,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/7e7f706c65c8956818c2ba74f0a28ac5.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "娜维娅",
+				"nameEn": "",
+				"element": "Geo"
+			},
+			{
+				"itemId": 10000070,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/f79106afada42a885de2499794ad9235.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "妮露",
+				"nameEn": "",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000081,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/b1b88ae35a61f6f4cca1fe25635c1062.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "卡维",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000061,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/938d071a614d9ce988400fdb510016cd.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "绮良良",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000027,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/6bf2d3a9d2865db26e05764415544641.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "凝光",
+				"nameEn": "",
+				"element": "Geo"
+			}
+		],
+		"start": "2024-07-17 06:00:00",
+		"end": "2024-08-06 17:59:59"
+	},
+	{
 		"version": "4.7.2",
 		"items": [
 			{

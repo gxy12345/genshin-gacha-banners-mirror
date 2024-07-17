@@ -3,6 +3,83 @@
 		"version": "4.7.2",
 		"items": [
 			{
+				"itemId": 12512,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/3b6a546a79fef90347f0231e9831b201.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "裁断",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11511,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/33b7ae6862f2622fd88543691c08d923.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "圣显之钥",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 11418,
+				"weaponType": "Sword",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/c8ec5cf9e2dfa1b0fac1c6456f8ceef4.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西福斯的月光",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12402,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/68c66ae86ddcbf372f4d67627fd0c65a.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "钟剑",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13401,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/d77def5f2ea0331339e6b05a559a2024.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14409,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/51379814ee2d72bdc3035439a8c37831.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15405,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/8a097b9f11f89875e515f09783dd36d3.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "弓藏",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-07-17 06:00:00",
+		"end": "2024-08-06 17:59:59"
+	},
+	{
+		"version": "4.7.2",
+		"items": [
+			{
 				"itemId": 11513,
 				"weaponType": "Bow",
 				"imageUrl": "/hk4e/e20200928calculate/item_icon_u060fg/3c3b9ec9c69fe78571f315f1006a7b87.png",
