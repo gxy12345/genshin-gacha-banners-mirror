@@ -1,6 +1,83 @@
 [
 	{
-		"version": "4.7.2",
+		"version": "4.8.2",
+		"items": [
+			{
+				"itemId": 13501,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u9cfkg/d8bc53ca45cc013c7a5312bf1f9c7fba.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "柔灯挽歌",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15508,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/9968c37c0dbae22ed23c94111f4ee623.png",
+				"rankType": 5,
+				"itemType": "Weapon",
+				"name": "若水",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 12415,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/1405d7c4371d2d8c76da2bcbb142ed9e.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "玛海菈的水色",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14416,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/336072a4ff3ea769cdf0bf5aa1a898d6.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "流浪的晚星",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 13401,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/d77def5f2ea0331339e6b05a559a2024.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "匣里灭辰",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 14409,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/51379814ee2d72bdc3035439a8c37831.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "昭心",
+				"nameEn": "",
+				"element": ""
+			},
+			{
+				"itemId": 15401,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/289281904bf6e2498e9f7238d8cabb5b.png",
+				"rankType": 4,
+				"itemType": "Weapon",
+				"name": "西风猎弓",
+				"nameEn": "",
+				"element": ""
+			}
+		],
+		"start": "2024-08-06 18:00:00",
+		"end": "2024-08-27 14:59:59"
+	},
+	{
+		"version": "4.8.1",
 		"items": [
 			{
 				"itemId": 12512,

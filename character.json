@@ -1,5 +1,62 @@
 [
 	{
+		"version": "4.8.2",
+		"items": [
+			{
+				"itemId": 10000091,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u9cfkg/e00f27e1ab26997f48aa0b42a76d3d9d.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "艾梅莉埃",
+				"nameEn": "",
+				"element": "Dendro"
+			},
+			{
+				"itemId": 10000060,
+				"weaponType": "Bow",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/954546f39778314e8cc7fd01dd5b6f61.png",
+				"rankType": 5,
+				"itemType": "Character",
+				"name": "夜兰",
+				"nameEn": "",
+				"element": "Hydro"
+			},
+			{
+				"itemId": 10000020,
+				"weaponType": "Claymore",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/1edf49104c4aa82b0840a8b7d747ac16.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "雷泽",
+				"nameEn": "",
+				"element": "Electro"
+			},
+			{
+				"itemId": 10000048,
+				"weaponType": "Catalyst",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/a183094f3f2fcc1e2bcbd385a9d70075.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "烟绯",
+				"nameEn": "",
+				"element": "Pyro"
+			},
+			{
+				"itemId": 10000023,
+				"weaponType": "Polearm",
+				"imageUrl": "/hk4e/e20200928calculate/item_icon_u69a1f/4ba437132ef28cf1280197f5c03f3432.png",
+				"rankType": 4,
+				"itemType": "Character",
+				"name": "香菱",
+				"nameEn": "",
+				"element": "Pyro"
+			}
+		],
+		"start": "2024-08-06 18:00:00",
+		"end": "2024-08-27 14:59:59"
+	},
+	{
 		"version": "4.8.1",
 		"items": [
 			{
